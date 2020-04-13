@@ -1,4 +1,4 @@
-plan profile::apply_base (
+plan role::apply_base (
   TargetSpec $targets,
 )
 {
