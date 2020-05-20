@@ -6,6 +6,6 @@ plan role::apply_base (
   apply_prep($targets)
 
   apply($targets) {
-    class { 'profile::base': }
+    class { 'roles::base': }
   }
 }
