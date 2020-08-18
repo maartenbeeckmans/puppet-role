@@ -1,3 +1,3 @@
 class role::base {
-  include profile::base
+  include profile_base
 }
